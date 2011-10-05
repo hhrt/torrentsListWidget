@@ -1,0 +1,6 @@
+*.o
+moc_*.cpp
+Makefile
+bak_*
+_bak
+.bak
